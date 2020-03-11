@@ -1,5 +1,5 @@
 # strongAI
-Real strong AI, real nature language comprehension
+Real strong AI, real nature language comprehension/understanding
 
 This is a project for REAL natural language comprehension. It is not based on machine learning, which cannot really comprehend natural language.
 
